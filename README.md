@@ -22,3 +22,6 @@
 ## Summary
 
 The model is very accurate in predicting healthy loans but the greatest weakness with this model is the lower precision rate for high risk loans. This weakness can result in borrowers being approved for loans who should have been declined or should have been approved for a lower loan amount. The model should be revised to capture a higher precision and accuracy rate for high risk credit loans. 
+
+## Resources
+Previous homework assignments and Chat GPT were used to assist with troubleshooting code.
