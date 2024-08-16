@@ -2,8 +2,6 @@
 
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-
 * Purpose of the analysis was to develop a machine learning model that could accuractly predict he credit risk with loans. Credit risk was evaluated as either being healthy or high risk of defaulting. 
 
 * The variables used were the borrower's: amount of loan, interest rate, income, debt to income, number of accounts, number of derogatory marks, total debt, and loan status. The project's goal was to predict the loan status where 0 shows a healthy loan and 1 shows a high risk loan. 
